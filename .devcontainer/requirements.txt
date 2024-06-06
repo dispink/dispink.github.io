@@ -2,4 +2,8 @@
 ipython
 ipykernel
 ipywidgets
+ipyleaflet
 tqdm
+
+pandas
+getorg
