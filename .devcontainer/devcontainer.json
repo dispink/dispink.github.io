@@ -19,10 +19,7 @@
 	"onCreateCommand": "bash .devcontainer/install-dev-tools.sh",
 
 	// Uncomment the next line to run commands after the container is created.
-	"postCreateCommand": [
-		"jekyll --version",
-		"bundle clean --force"
-	],
+	"postCreateCommand": "bundle clean --force",
 	
 
 	// Configure tool-specific properties.
@@ -43,8 +40,10 @@
 				"ms-python.black-formatter"
 			]
 		}
-	}
+	},
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
+
+	"postStartCommand": "jekyll --version"
 }
