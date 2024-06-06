@@ -1,0 +1,5 @@
+# For jupyter notebook
+ipython
+ipykernel
+ipywidgets
+tqdm
