@@ -1,8 +1,13 @@
 var addressPoints = [
   [
-    "Kochi, Japan",
-    33.5680384,
-    133.5394221
+    "Texel, Netherlands",
+    53.0767854,
+    4.905757015033067
+  ],
+  [
+    "Chiba, Japan",
+    35.549399,
+    140.2647303
   ],
   [
     "Bremen, Germany",
@@ -15,13 +20,8 @@ var addressPoints = [
     11.3927685
   ],
   [
-    "New Orleans, USA  ",
-    29.9759983,
-    -90.0782127
-  ],
-  [
-    "Chiba, Japan",
-    35.549399,
-    140.2647303
+    "Kochi, Japan",
+    33.5680384,
+    133.5394221
   ]
 ];
