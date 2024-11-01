@@ -4,6 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+- MAX: Masked Autoencoder for X-ray Fluorescence in Geological Investigation. arXiv 2024.<br>
+__An-Sheng Lee__, Yu-Wen Pao, Hsuan-Tien Lin, Sofia Ya Hsuan Liou<br>
+[[Paper]](https://arxiv.org/abs/2410.12330)
+[[Code]](https://github.com/dispink/xpt)
+[[Huggingface]](https://huggingface.co/paoyw/max)
+[[Data]](https://huggingface.co/datasets/paoyw/max-dataset)
+
 - Quantifying calcium carbonate and organic carbon content in marine sediments from XRF-scanning spectra with a machine learning approach. Scientific Reports 2022.<br>
 __An-Sheng Lee__, Weng-Si Chao, Sofia Ya Hsuan Liou, Ralf Tiedemann, Bernd Zolitschka, Lester Lembke-Jene<br>
 [[Paper]](https://doi.org/10.1038/s41598-022-25377-x)
