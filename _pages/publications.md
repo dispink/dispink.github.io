@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-- MAX: Masked Autoencoder for X-ray Fluorescence in Geological Investigation. arXiv 2024.<br>
+- Cross‐Project Deep‐Sea Sediment Geochemistry From XRF Spectra: A Self‐Supervised Foundation Model (MAX). JGR: Machine Learning and Computation. 2025.<br>
 __An-Sheng Lee__, Yu-Wen Pao, Hsuan-Tien Lin, Sofia Ya Hsuan Liou<br>
-[[Paper]](https://arxiv.org/abs/2410.12330)
+[[Paper]](https://doi.org/10.1029/2025JH000754)
 [[Code]](https://github.com/dispink/xpt)
 [[Huggingface]](https://huggingface.co/paoyw/max)
-[[Data]](https://huggingface.co/datasets/paoyw/max-dataset)
+[[Data]](https://doi.org/10.5281/zenodo.16354051)
 
 - Quantifying calcium carbonate and organic carbon content in marine sediments from XRF-scanning spectra with a machine learning approach. Scientific Reports 2022.<br>
 __An-Sheng Lee__, Weng-Si Chao, Sofia Ya Hsuan Liou, Ralf Tiedemann, Bernd Zolitschka, Lester Lembke-Jene<br>
